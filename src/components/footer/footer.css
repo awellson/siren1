@@ -1,0 +1,14 @@
+.footer {
+    height: 158px;
+    padding: 24px;
+    text-align: center;
+    background-color: #2F54EB;
+}
+.footer__logo {
+    margin-bottom: 20px;
+}
+
+.footer__link {
+    padding-right: 16px;
+    padding-left: 16px;
+}

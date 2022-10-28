@@ -1,0 +1,22 @@
+.zipCode {
+    max-width: 320px;
+    margin: auto;
+    text-align: center;
+}
+.zipCode__title {
+    font-size: 23px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    color: #000000;
+}
+.zipCode__hint {
+    font-size: 14px;
+    font-weight: 500;
+    color: #646464;
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+.zipCode__button {
+    height: 56px;
+}
